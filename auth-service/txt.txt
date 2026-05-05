@@ -1,0 +1,16 @@
+buatkan saya projek microservice bun hono dengan kriteria
+1. Drizzle orm
+2. postgreSQL
+3. Bun run time
+4. Docker
+5. Zod validator
+6. redis caching
+7. jwt token
+8. Pino Logging
+9. queue retry (RabbitMQ DLQ)
+10.Vitest
+11.Utility 
+UUID
+uuid
+11.2 Date
+dayjs
